@@ -33,7 +33,7 @@ I'm a CS student at Western Governors University, driven by a curiosity for tech
 
 ## 📬 Get in Touch
 
-- Feel free to connect with me on [LinkedIn](www.linkedin.com/in/crendon0)
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/crendon0)
 
 Thanks for stopping by!🚀
 
