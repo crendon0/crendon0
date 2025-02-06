@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Rendon! 👋
 
-I'm a CS student at Western Governors University, driven by a curiosity for technology and a love for learning new things. Starting my journey into tech in 2024, I'm eager to apply my skills and unique experiences working in healthcare towards developing innovative technologies to improve healthcare outcomes for all.
+I'm a CS student at Western Governors University, driven by a curiosity for technology and a love for learning new things. I started a career change into tech in 2024, eager to apply my skills and unique experiences working in healthcare towards developing innovative technologies to improve healthcare outcomes for all.
 
 ![crendon0's Stats](https://github-readme-stats.vercel.app/api?username=crendon0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
