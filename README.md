@@ -10,13 +10,13 @@ I'm a CS student at Western Governors University, driven by a curiosity for tech
 - 📝 Working on projects to learn new skills towards my goal of becoming a AI/ML engineer.
 - 🌐 Proud member of [ColorStack](https://www.colorstack.org/)
 - ✍️ AI Trainer at Alignerr
-
+<!--
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
