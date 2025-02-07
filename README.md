@@ -18,7 +18,7 @@ For more themes and customization: https://github.com/anuraghazra/github-readme-
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,pytorch,react,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,pytorch,react)](https://skillicons.dev)
 <!--
 For more tech stack related icons and customization: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#readme
 -->
@@ -37,7 +37,7 @@ For more tech stack related icons and customization: https://github.com/tandpfun
 
 ## 📬 Get in Touch
 
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/crendon0)
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/crendon0)(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 Thanks for stopping by!🚀
 
