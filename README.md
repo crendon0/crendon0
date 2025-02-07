@@ -37,7 +37,7 @@ For more tech stack related icons and customization: https://github.com/tandpfun
 
 ## 📬 Get in Touch
 
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/crendon0)(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/crendon0)[![linkedin]](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 Thanks for stopping by!🚀
 
